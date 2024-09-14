@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isionsle.github.io/sitemap.html.gz
+Sitemap: https://isionsle.github.io/app/sitemap.html.gz
+Sitemap: https://isionsle.github.io/assets/sitemap.html.gz
+Sitemap: https://isionsle.github.io/css/sitemap.html.gz
+Sitemap: https://isionsle.github.io/includes/sitemap.html.gz
+Sitemap: https://isionsle.github.io/item/sitemap.html.gz
+Sitemap: https://isionsle.github.io/src/sitemap.html.gz
